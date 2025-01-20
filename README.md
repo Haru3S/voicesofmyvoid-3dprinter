@@ -1,7 +1,5 @@
 # Info
-This is a Github containing all the 3D prints uploaded to [3D Print forum](https://discord.com/channels/512287844258021376/1132040858343059638) in the EternityDev Discord. Updated by multiple indivuduals to ensure it wont be deleted like the last one.
-
-There are tutorials made if you need help making prints, or need to make large prints. If you are confused and still need help please feel free to ask in the 3D forum as multiple people can assist you.
+This Github a fork of `voicesoftheprinter` repo. Will store future creations and expirments by me.
 
 # Submiting Prints
 You want to submit prints and you arent in the discord? Follow this!
