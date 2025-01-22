@@ -2,8 +2,8 @@
 This Github a fork of `voicesoftheprinter` repo. Will store future creations and expirments by me.
 
 # Submiting Prints
-You want to submit prints and you arent in the discord? Follow this!
-### [Printer Submission](https://github.com/madrod228/voicesoftheprinter/blob/main/Guide-%20Submiting%20Prints.md)
+Oi! You wanna submit prints? I would make a system but I'm lazy also if your reading this your a amazaing person.
+> why do i do this to myself lmao 
 
 # Guides
 ### [Printer Guide](https://github.com/madrod228/voicesoftheprinter/blob/main/Guide-VOTV%20Printer.md)
