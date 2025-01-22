@@ -2,7 +2,7 @@
 This Github a fork of `voicesoftheprinter` repo. Will store future creations and expirments by me.
 
 # Submiting Prints
-Oi! You wanna submit prints? I would make a system but I'm lazy also if your reading this your a amazaing person.
+Oi! You wanna submit prints? I would make a system but I'm lazy also if your reading this your a kewl person.
 > why do i do this to myself lmao 
 
 # Guides
