@@ -77,7 +77,10 @@ killerblade555 has done mostly everything else
 
 Special Thanks to .flufffluff and sahneisttoll for fixing models to be compatible with 0.7+
 
-Sleep Deprived Gaming for making pages 26-32
+**Sleep Deprived Gaming** for making pages 26-32
+
+**Cait** contributed nothing just exists.
+> I forgot how to spell their username.
 
 Sahneisttoll for the VOTV Printer Guide
 
