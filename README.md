@@ -81,8 +81,7 @@ Special Thanks to .flufffluff and sahneisttoll for fixing models to be compatibl
 
 **Sleep Deprived Gaming** for making pages 26-32
 
-**Cait** contributed nothing just exists.
-> I forgot how to spell their username.
+**CaitOfCaelid** contributed nothing just exists.
 
 Sahneisttoll for the VOTV Printer Guide
 
